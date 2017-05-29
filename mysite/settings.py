@@ -1,7 +1,7 @@
 # @Author: pingjun
 # @Date:   2017-05-29T10:17:05+08:00
 # @Last modified by:   pingjun
-# @Last modified time: 2017-05-30T06:25:35+08:00
+# @Last modified time: 2017-05-30T06:58:46+08:00
 
 
 
@@ -33,7 +33,7 @@ SECRET_KEY = '04kd9b96@7szl033-fbsz*m7!h62huzxuovs0r3&q^la!+zc52'
 DEBUG = True
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
